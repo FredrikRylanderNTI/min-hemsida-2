@@ -16,6 +16,7 @@ nav {
   padding: 16px 32px;
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 
 nav h1 {
@@ -23,6 +24,7 @@ nav h1 {
   font-weight: 700;
   flex: 1;
   text-align: center;
+  justify-content: space-between
 }
 
 button {
