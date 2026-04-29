@@ -11,12 +11,11 @@ body {
 }
 
 nav {
-  border: 1.5px solid #44D62C;
+  border: 2px solid #44D62C;
   margin: 24px;
   padding: 16px 32px;
   display: flex;
   align-items: center;
-  justify-content: space-between;
 }
 
 nav h1 {
